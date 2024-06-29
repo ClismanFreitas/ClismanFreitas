@@ -18,7 +18,7 @@
   <img aling="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img aling="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img aling="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img align="right" height="200em" alt="Meugif" src="https://github.com/anuraghazra/github-readme-stats/assets/150072269/75a8112c-57f1-4afe-90d5-eb0c963c841e"/>
+  <img align="right" height="200em"  alt="Meugif" src="https://github.com/ClismanFreitas/ClismanFreitas/assets/150072269/e22c5016-2c1c-465c-8441-253eef71006c"/>
 </div>
 
 ##
