@@ -1,6 +1,7 @@
 # 👨‍💻 Clisman Freitas
 
-<div>
+<h2 align="center">📫 Conecte-se Comigo</h2>
+<div align="center">
   <a href="https://www.instagram.com/clismanfreiitas_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/clisman-freitas-8b748a2b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -15,6 +16,8 @@
 
 ### 🤖 Linguagens e Tecnologias
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -24,24 +27,16 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 
+</div>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ClismanFreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClismanFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>
 
+<summary><b>⚡ Status Públicos do Github</b></summary>
+<br>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clismanfreitas&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clismanfreitas&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
