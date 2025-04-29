@@ -1,14 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+" alt="Typing SVG">
-  </a>
-</div>
 
-<div>
-  <a href="https://github.com/ClismanFreitas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClismanFreitas&show_icons=true&theme=radical"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClismanFreitas&layout=compact&langs_count=16&theme=radical"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
