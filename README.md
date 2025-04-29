@@ -8,7 +8,7 @@
 
 ---
 
-**`Desenvolvedor FrontEnd`**
+<h2 align="center">Desenvolvedor FrontEnd</h2>
 
 <p align="center">Minha trajetória é marcada pelo aprendizado contínuo e pela vontade de me desafiar com novos projetos. A cada etapa, busco sempre novas formas de otimizar processos e contribuir para o desenvolvimento de soluções tecnológicas que atendam às necessidades reais dos usuários e, ao mesmo tempo, se alinhem aos objetivos dos negócios. Acredito que a tecnologia, aliada à criatividade, é uma ferramenta poderosa para a construção de um futuro mais eficiente e conectado.</p>
 
