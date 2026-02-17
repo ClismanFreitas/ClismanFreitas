@@ -38,6 +38,6 @@
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=clismanfreitas&show_icons=true&theme=radical"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clismanfreitas&layout=compact&langs_count=8&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ClismanFreitas&show_icons=true&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClismanFreitas&layout=compact&langs_count=8&theme=radical"/>
 </p>
